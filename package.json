@@ -1,0 +1,17 @@
+{
+    "name": "com.juju8e.ecslite.conversion",
+    "version": "0.0.0",
+    "displayName": "EcsLite Conversion",
+    "description": "EcsLite Conversion Workflow",
+    "unity": "2021.1",
+    "keywords": [
+        "Juju8e",
+        "EcsLite",
+        "Conversion"
+    ],
+    "author": {
+        "name": "Juju8e",
+        "email": "juju8e@gmail.com",
+        "url": "https://github.com/juju8e"
+    }
+}
